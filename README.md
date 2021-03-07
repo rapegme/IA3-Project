@@ -1,2 +1,2 @@
 # IA3-Project
-Generative models projecto for IA3 Master 
+Generative models project for IA3 Master 
